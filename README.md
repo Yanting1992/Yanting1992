@@ -11,11 +11,7 @@ I specialize in translating complex business operations into AI-enabled solution
 * **Data Analysis:** Python (Pandas, NumPy), SQL, Excel (VBA)，R (Machine Learning, SNA(Social Network Analysis))
 * **Visualization:** Streamlit, Tableau, Matplotlib
 * **Tools:** Git, GitHub, Jupyter Notebook, ERP(Oracle, Plex)/MES Systems
-
----
-
-### Soft Skills
-* Cross-functional Collaboration , Stakeholder Management, Regulatory Compliance mindset, and Logical Problem Solving.
+* **Soft Skills:** Cross-functional Collaboration , Stakeholder Management, Regulatory Compliance mindset, and Logical Problem Solving.
 
 ---
 
@@ -41,5 +37,5 @@ I specialize in translating complex business operations into AI-enabled solution
 ### 📫 Connect with Me
 * **Location:** Dayton, Ohio 
 * **Goal:** Seeking AI / Data Analytics Internships for Summer 2026.
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanting1992&show_icons=true&theme=radical)
+* **Email:** yantingiris@gmail.com
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YLiao-Analytics&show_icons=true&theme=radical)
