@@ -8,7 +8,7 @@ I bridge the gap between complex manufacturing operations and data-driven decisi
 ---
 
 ### 🛠️ Technical Toolkit
-* **Data Analysis:** Python (Pandas, NumPy), SQL, Excel (VBA/Macros)
+* **Data Analysis:** Python (Pandas, NumPy), SQL, Excel (VBA)
 * **Visualization:** Streamlit, Tableau, Matplotlib
 * **Tools:** Git, GitHub, Jupyter Notebook, SAP/ERP Systems
 
