@@ -14,6 +14,11 @@ I specialize in translating complex business operations into AI-enabled solution
 
 ---
 
+### Soft Skills
+* Cross-functional Collaboration , Stakeholder Management, Regulatory Compliance mindset, and Logical Problem Solving.
+
+---
+
 ### 🚀 Featured Projects
 #### [📊 Production Data Automation Dashboard](https://your-streamlit-link-here.streamlit.app/)
 * Developed a real-time web application to automate the consolidation of multi-workshop CSV reports.
@@ -34,8 +39,7 @@ I specialize in translating complex business operations into AI-enabled solution
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Location:** Dayton, Ohio (Open to roles in the Ohio region)
-* **Goal:** Seeking Data Analyst / Business Analyst roles starting Winter 2026.
+* **Location:** Dayton, Ohio 
+* **Goal:** Seeking AI / Data Analytics Internships for Summer 2026.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanting1992&show_icons=true&theme=radical)
