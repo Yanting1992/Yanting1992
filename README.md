@@ -38,4 +38,7 @@ I specialize in translating complex business operations into AI-enabled solution
 * **Location:** Dayton, Ohio 
 * **Goal:** Seeking AI / Data Analytics Internships for Summer 2026.
 * **Email:** yantingiris@gmail.com
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YLiao-Analytics&show_icons=true&theme=radical)
+
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YLiao-Analytics&show_icons=true&theme=radical&hide=prs,issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YLiao-Analytics&layout=compact&theme=radical)
